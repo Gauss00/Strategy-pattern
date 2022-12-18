@@ -1,1 +1,1 @@
-
+pattern design strategy
